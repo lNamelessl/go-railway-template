@@ -1,0 +1,4 @@
+.git
+.mimosa
+*.md
+!README.md
