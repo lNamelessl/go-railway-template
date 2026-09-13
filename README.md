@@ -2,7 +2,7 @@
 
 A modern Go REST API starter for [Railway](https://railway.com) — current Go, zero third-party dependencies, a ~10 MB static image, and the classic Go-on-PaaS failure modes already engineered out.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/new?github_url=https://github.com/lNamelessl/go-railway-template)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/go-railway-template)
 
 ## What's inside
 
